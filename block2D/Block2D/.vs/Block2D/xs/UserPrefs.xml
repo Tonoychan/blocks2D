@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{4F32EF71-B511-3B5D-ECC7-307287687625}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoxScript.cs" Line="109" Column="39" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="13" Column="40" />
+      <File FileName="Assets/Scripts/BoxSpawner.cs" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/GameplayController.cs" Line="59" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Block2D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraFollow.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d87c450-11ce-40f8-90ac-bde205b40c0a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
